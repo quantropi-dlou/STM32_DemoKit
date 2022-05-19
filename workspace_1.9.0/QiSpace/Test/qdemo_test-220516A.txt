@@ -1,0 +1,27 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.05.16 08:31:21 =~=~=~=~=~=~=~=~=~=~=~=
+
+DEMO KIT 0.1.0 START
+q_self_test START
+Entering ... qeep_stream_iv 
+Leaving ... qeep_stream_iv 
+Entering ... qeep_stream_decode 
+Leaving ... qeep_stream_decode 
+Entering ... qeep_stream_decode 
+Leaving ... qeep_stream_decode 
+Entering ... qeep_stream_decode 
+Leaving ... qeep_stream_decode 
+Entering ... qeep_stream_iv 
+Leaving ... qeep_stream_iv 
+Entering ... qeep_stream_encode 
+Leaving ... qeep_stream_encode 
+Entering ... qeep_stream_encode 
+Leaving ... qeep_stream_encode 
+Entering ... qeep_stream_encode 
+Leaving ... qeep_stream_encode 
+q_self_test END
+demo_qeep START
+Demo QiSpace QEEP operation ....
+Entering ... QSC_init 
+Leaving ... QSC_init 
+Entering ... QSC_qeep_key_load 
+
